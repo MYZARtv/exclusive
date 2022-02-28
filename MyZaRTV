@@ -565,3 +565,8 @@ http://linearjitp-playback.astro.com.my/dash-wv/linear/2310/default_ott.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=d00a8536425163d5274fdf086001e110&key=7261ce40695be3526cf0e8e224546723
 #EXTINF:-1 tvg-id="223" tvg-logo="http://linear-poster.astro.com.my/prod/logo/ZeeTamil_v1.png" group-title="MALAYSIA",ZEE TAMIL
 https://linearjitp-playback.astro.com.my/dash-wv/linear/2311/default_ott.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=98b593ae7d0d2b488eca960db791c010&key=56ef03e88c52b9ea7ea73ea0338f6d89
+#EXTINF:-1 group-title="News" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/423_144.png" tvg-id="516" ,516 CNBC Asia HD
+https://linearjitp-playback.astro.com.my/dash-wv/linear/900/default_ott.mpd|
